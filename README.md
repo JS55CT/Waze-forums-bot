@@ -1,4 +1,4 @@
-# WazeForumProcessor
+# WazeForumProcessorBot
 
 **Author**: JS55CT  
 **Created**: October 2023  
