@@ -29,11 +29,7 @@ The `WazeForumProcessor` is a script designed to process RSS feeds from various 
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/WazeForumProcessor.git
-    ```
-2. Follow the guidelines to set up the script in your preferred environment (e.g., Google Apps Script).
+1. Follow the guidelines to set up the script in your preferred environment (e.g., Google Apps Script).
 
 ## Usage
 
